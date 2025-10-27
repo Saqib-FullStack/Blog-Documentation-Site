@@ -21,7 +21,7 @@
                 class="ml-4 font-medium"
                 class:text-indigo-600={$page.url.pathname.startsWith('/blog')}
             >
-                All Posts
+                All Post
             </a>
         </nav>
     </div>
